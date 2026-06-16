@@ -1,4 +1,4 @@
-# Arduino-TLE75080
+# TLE75080
 Simple SPI driver for Infineon's TLE75080 8-channel high side switch.
 
 The TLE75080 is an 8 channel high side switch, switching up to 28V with 300 mA per channel and a total of 1A.
